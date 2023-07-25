@@ -1,2 +1,3 @@
 # leetcode_solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+<h4 align=centre>Collection of my solutions of LeetCode questions .</h4>
+<h4 align=centre>Programming language used for solutions : Python 3 .</h4>
