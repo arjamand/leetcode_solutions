@@ -1,7 +1,5 @@
 # LeetCode Solutions in Python 3
 
-![LeetCode Logo](https://leetcode.com/static/images/LeetCode_logo.png)
-
 This repository contains my solutions to various LeetCode questions implemented in Python 3.
 
 ## Usage
